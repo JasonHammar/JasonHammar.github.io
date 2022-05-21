@@ -1,0 +1,30 @@
+img{
+    height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  
+}
+
+header{
+   text-align: center; 
+   background-color: aqua;
+}
+
+#about{
+    text-align: center;
+    background-color: lightgreen;
+}
+
+#hobbies{
+  background-color: lightpink;
+}
+
+#CCBars{
+  height: 200px;
+}
+
+#snickers{
+  height: 200px;
+  
+}
