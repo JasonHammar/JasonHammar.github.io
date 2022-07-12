@@ -5,7 +5,9 @@ img{
     margin-right: auto;
   
 }
-
+head{
+    background-color: aqua;
+}
 header{
    text-align: center; 
    background-color: aqua;
